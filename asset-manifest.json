@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stlpolicyproject/static/css/main.5f361e03.chunk.css",
+    "main.js": "/stlpolicyproject/static/js/main.2a902161.chunk.js",
+    "main.js.map": "/stlpolicyproject/static/js/main.2a902161.chunk.js.map",
+    "runtime-main.js": "/stlpolicyproject/static/js/runtime-main.64fa0b3a.js",
+    "runtime-main.js.map": "/stlpolicyproject/static/js/runtime-main.64fa0b3a.js.map",
+    "static/js/2.65187651.chunk.js": "/stlpolicyproject/static/js/2.65187651.chunk.js",
+    "static/js/2.65187651.chunk.js.map": "/stlpolicyproject/static/js/2.65187651.chunk.js.map",
+    "index.html": "/stlpolicyproject/index.html",
+    "precache-manifest.ebe35d9c89536f3f0039c5e172f96741.js": "/stlpolicyproject/precache-manifest.ebe35d9c89536f3f0039c5e172f96741.js",
+    "service-worker.js": "/stlpolicyproject/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/stlpolicyproject/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.65187651.chunk.js.LICENSE.txt": "/stlpolicyproject/static/js/2.65187651.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64fa0b3a.js",
+    "static/js/2.65187651.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2a902161.chunk.js"
+  ]
+}
